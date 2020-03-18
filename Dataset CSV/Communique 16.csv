@@ -1,0 +1,70 @@
+Date Communique,Source Communique,ID Patient,Adresse,Region,Provenance,Entrée dans le territoire,Nationalite,Categorie Age,Sexe,Etat,Resultat Test,Mise en Quarantaine,Lieu de Mise en Quarantaine
+16/03/2020,Communique 15,C002FRAM3,Guediawaye,Dakar,France,29/02/2020,Francaise,80 - 89,Masculin,Stable,Negatif,Oui,CMIF
+16/03/2020,Communique 15,C003FRAF4,Guediawaye,Dakar,France,29/02/2020,Francaise,60 - 69,Feminin,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C010SENM4,Darou Marnane,Diourbel,Italie,6/3/2020,Senegalaise,,Masculin,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C011SEN4,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C011SEN5,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C011SEN6,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C011SEN7,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C011SEN8,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C012SEN9,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN10,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN11,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN12,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN13,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN14,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN15,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN16,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN17,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN18,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C012SEN19,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C013SENM20,Darou Marnane,Diourbel,,,Senegalaise,0 -9,Masculin,Stable,Positif,Oui,
+16/03/2020,Communique 15,C013ESPM21,Dakar,Dakar,Espagne,10/3/2020,Espagnole,50 - 59,Masculin,Stable,Positif,Oui,
+16/03/2020,Communique 15,C013FRAM22,Mbour,Thies,France,12/3/2020,Francaise,60 - 69,Masculin,Stable,Positif,Oui,
+16/03/2020,Communique 15,C014SENM23,,,Espagne,14/3/2020,Senegalaise,30 - 39,Masculin,Stable,Positif,Oui,CMIF
+16/03/2020,Communique 15,C014SENM24,Darou Marnane,Diourbel,,,Senegalaise,10 - 19,Masculin,Stable,Positif,Oui,Centre de Sante Darou Marnane
+16/03/2020,Communique 15,C015FRAM25,,,France,7/3/2020,Francaise,60 - 69,Masculin,Sous Traitement,Positif,Oui,
+17/03/2020,Communique 16,C01626,,,,,,,,Sous Traitement,Positif,Oui,
+17/03/2020,Communique 16,C01627,,,,,,,,Sous Traitement,Positif,Oui,
+17/03/2020,Communique 16,C01628,,,,,,,,Sous Traitement,Positif,Oui,
+17/03/2020,Communique 16,C016SEN29,Darou Marnane,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,Centre de Sante Darou Marnane
+17/03/2020,Communique 16,C01630,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01631,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01632,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01633,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01634,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01635,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01636,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01637,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01638,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01639,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01640,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01641,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01642,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01643,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01644,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01645,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01646,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01647,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01648,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01649,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01650,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01651,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01652,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01653,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01654,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01655,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01656,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01657,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01658,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01659,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01660,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01661,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01662,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01663,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01664,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01665,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01666,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01667,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01668,,,,,,,,,Negatif,,
+17/03/2020,Communique 16,C01669,,,,,,,,,Negatif,,
