@@ -21,8 +21,8 @@ Directory                   |   Description
 .                           | Project files such as README and LICENSE
 ./Covid19Sn.pbix            | Power BI report for desktop screens
 ./Covid19Sn-Mobile.pbix     | Power BI report for mobile screens
-Dataset CSV                 | CSV Data files: Information provided in press eleases in translated in csv files
-Dataset Excel               | Excel Data files: Information provided in press eleases in translated in excel files
+Dataset CSV                 | CSV Data files: Information provided in press releases and translated in csv files
+Dataset Excel               | Excel Data files: Information provided in press releases and translated in excel files
 Press Releases              | Official press releases published by the Ministery of Health and Social Action of the country of Senegal
 IMG                         | Pictures and screenshots
 
