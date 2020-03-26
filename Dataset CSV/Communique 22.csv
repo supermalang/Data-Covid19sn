@@ -1,0 +1,123 @@
+Date Communique,Source Communique,ID Patient,Adresse,Region,Provenance,Entrée dans le territoire,Nationalite,Categorie Age,Sexe,Etat,Resultat Test,Mise en Quarantaine,Lieu de Mise en Quarantaine
+23/03/2020,Communique 22,C010SENM4,Darou Marnane,Diourbel,Italie,6/3/2020,Senegalaise,,Masculin,Gueri,Negatif,,
+23/03/2020,Communique 22,C011SEN4,Darou Marnane,Diourbel,,,Senegalaise,,,Gueri,Negatif,,
+23/03/2020,Communique 22,C011SEN5,Darou Marnane,Diourbel,,,Senegalaise,,,Gueri,Negatif,,
+23/03/2020,Communique 22,C011SEN6,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C011SEN7,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C011SEN8,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C012SEN9,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN10,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN11,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN12,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN13,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN14,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN15,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN16,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN17,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN18,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C012SEN19,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C013ESPM21,Dakar,Dakar,Espagne,10/3/2020,Espagnole,50 - 59,Masculin,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C013FRAF22,Mbour,Thies,France,12/3/2020,Francaise,60 - 69,Feminin,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C014SENM23,,Dakar,Espagne,14/3/2020,Senegalaise,30 - 39,Masculin,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C014SENM24,Darou Marnane,Diourbel,,,Senegalaise,10 - 19,Masculin,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C015FRAM25,,Dakar,France,7/3/2020,Francaise,60 - 69,Masculin,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C016SEN26,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C01627,,Dakar,,,,,,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C01628,,Dakar,,,,,,Stable,Positif,Oui,CTMIT Fann
+23/03/2020,Communique 22,C01629,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C017SEN30,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C017SEN31,,Dakar,,,Senegalaise,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01732,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01733,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01734,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01835,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01836,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01934,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01935,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01936,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C01937,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C019SEN38,,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C019SEN39,,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C019SEN40,,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+23/03/2020,Communique 22,C019SEN41,,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C019SEN42,,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CT Diamnidio
+23/03/2020,Communique 22,C020SEN43,Ziguinchor,Ziguinchor,France,,Francaise,70 - 79,Masculin,Stable,Positif,Oui,CT HR Ziguinchor
+23/03/2020,Communique 22,C02044,,Saint-Louis,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02045,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02046,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02047,Pikine,Dakar,France,16/03/2020,Senegalaise,30 - 39,Masculin,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02048,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02049,,Thies,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02050,,Thies,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02051,,Thies,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02152,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02153,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02154,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02155,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02156,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02157,,,,,,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C021SEN58,,,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C021SEN59,,,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C021SEN60,,,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C021SEN61,,,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C021SEN62,,,,,Senegalaise,,,Stable,Positif,Oui,
+23/03/2020,Communique 22,C02263,,,,,,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C02264,,,,,,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C02265,,,,,,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C02266,,,,,,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C02267,,,,,,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C02268,,,,,,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C022SEN69,,,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C022SEN70,,,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C022SEN71,,,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C022SEN72,,,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C022SEN73,,,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C022SEN74,,,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+23/03/2020,Communique 22,C02275,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02276,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02277,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02278,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02279,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02280,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02281,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02282,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02283,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02284,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02285,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02286,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02287,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02288,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02289,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02290,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02291,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02292,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02293,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02294,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02295,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02296,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02297,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02298,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C02299,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022100,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022101,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022102,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022103,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022104,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022105,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022106,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022107,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022108,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022109,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022110,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022111,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022112,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022113,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022114,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022115,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022116,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022117,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022118,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022119,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022120,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022121,,,,,,,,,Negatif,,
+23/03/2020,Communique 22,C022122,,,,,,,,,Negatif,,

@@ -1,0 +1,57 @@
+Date Communique,Source Communique,ID Patient,Adresse,Region,Provenance,Entrée dans le territoire,Nationalite,Categorie Age,Sexe,Etat,Resultat Test,Mise en Quarantaine,Lieu de Mise en Quarantaine
+18/03/2020,Communique 17,C002FRAM3,Guediawaye,Dakar,France,29/02/2020,Francaise,80 - 89,Masculin,Stable,Negatif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C003FRAF4,Guediawaye,Dakar,France,29/02/2020,Francaise,60 - 69,Feminin,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C010SENM4,Darou Marnane,Diourbel,Italie,6/3/2020,Senegalaise,,Masculin,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C011SEN4,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C011SEN5,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C011SEN6,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C011SEN7,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C011SEN8,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C012SEN9,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN10,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN11,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN12,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN13,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN14,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN15,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN16,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN17,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN18,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C012SEN19,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C013SENM20,Darou Marnane,Diourbel,,,Senegalaise,0 -9,Masculin,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C013ESPM21,Dakar,Dakar,Espagne,10/3/2020,Espagnole,50 - 59,Masculin,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C013FRAF22,Mbour,Thies,France,12/3/2020,Francaise,60 - 69,Feminin,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C014SENM23,,Dakar,Espagne,14/3/2020,Senegalaise,30 - 39,Masculin,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C014SENM24,Darou Marnane,Diourbel,,,Senegalaise,10 - 19,Masculin,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C015FRAM25,,Dakar,France,7/3/2020,Francaise,60 - 69,Masculin,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C016SEN26,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C01627,,Dakar,,,,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C01628,,Dakar,,,,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C01629,,Dakar,,,,,,Stable,Positif,Oui,CTMIT Fann
+18/03/2020,Communique 17,C017SEN30,Darou Marnane,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,CTE Touba
+18/03/2020,Communique 17,C017SEN31,,Dakar,,,Senegalaise,,,Sous Traitement,Positif,Oui,CT Diamnidio
+18/03/2020,Communique 17,C01732,,Dakar,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+18/03/2020,Communique 17,C01733,,Thies,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+18/03/2020,Communique 17,C01734,,Thies,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+18/03/2020,Communique 17,C01735,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01736,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01737,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01738,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01739,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01740,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01741,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01742,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01743,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01744,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01745,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01746,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01747,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01748,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01749,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01750,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01751,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01752,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01753,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01754,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01755,,,,,,,,,Negatif,,
+18/03/2020,Communique 17,C01756,,,,,,,,,Negatif,,

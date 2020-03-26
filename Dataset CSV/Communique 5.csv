@@ -1,7 +1,7 @@
-Date Communique,Source Communique,ID Patient,Adresse,Region,Provenance,Entree dans le territoire,Nationalite,Categorie Age,Sexe,Etat,Resultat Test,Mise en Quarantaine,Lieu de Mise en Quarantaine
+Date Communique,Source Communique,ID Patient,Adresse,Region,Provenance,Entrée dans le territoire,Nationalite,Categorie Age,Sexe,Etat,Resultat Test,Mise en Quarantaine,Lieu de Mise en Quarantaine
 6/3/2020,Communique 5,C001FRAM1,Almadies,Dakar,France,26/02/2020,Francaise,30 - 39,Masculin,Gueri,Negatif,,
-6/3/2020,Communique 5,C002FRAM3,Guediawaye,Dakar,France,29/02/2020,Francaise,80 - 89,Masculin,Stable,Positif,Oui,CMIF
-6/3/2020,Communique 5,C003ANGF3,,Dakar,Angleterre,24/02/2020,Anglaise,30 - 39,Feminin,Stable,Positif,Oui,CMIF
-6/3/2020,Communique 5,C003FRAF4,Guediawaye,Dakar,France,29/02/2020,Francaise,60 - 69,Feminin,Stable,Positif,Oui,CMIF
+6/3/2020,Communique 5,C002FRAM3,Guediawaye,Dakar,France,29/02/2020,Francaise,80 - 89,Masculin,Stable,Positif,Oui,CTMIT Fann
+6/3/2020,Communique 5,C003ANGF3,,Dakar,Angleterre,24/02/2020,Anglaise,30 - 39,Feminin,Stable,Positif,Oui,CTMIT Fann
+6/3/2020,Communique 5,C003FRAF4,Guediawaye,Dakar,France,29/02/2020,Francaise,60 - 69,Feminin,Stable,Positif,Oui,CTMIT Fann
 6/3/2020,Communique 5,C0055,,,,,,,,,Negatif,,
 6/3/2020,Communique 5,C0056,,,,,,,,,Negatif,,

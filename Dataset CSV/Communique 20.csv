@@ -1,0 +1,74 @@
+Date Communique,Source Communique,ID Patient,Adresse,Region,Provenance,Entrée dans le territoire,Nationalite,Categorie Age,Sexe,Etat,Resultat Test,Mise en Quarantaine,Lieu de Mise en Quarantaine
+21/03/2020,Communique 20,C010SENM4,Darou Marnane,Diourbel,Italie,6/3/2020,Senegalaise,,Masculin,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C011SEN4,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C011SEN5,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C011SEN6,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C011SEN7,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C011SEN8,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C012SEN9,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN10,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN11,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN12,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN13,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN14,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN15,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN16,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN17,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN18,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C012SEN19,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C013ESPM21,Dakar,Dakar,Espagne,10/3/2020,Espagnole,50 - 59,Masculin,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C013FRAF22,Mbour,Thies,France,12/3/2020,Francaise,60 - 69,Feminin,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C014SENM23,,Dakar,Espagne,14/3/2020,Senegalaise,30 - 39,Masculin,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C014SENM24,Darou Marnane,Diourbel,,,Senegalaise,10 - 19,Masculin,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C015FRAM25,,Dakar,France,7/3/2020,Francaise,60 - 69,Masculin,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C016SEN26,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C01627,,Dakar,,,,,,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C01628,,Dakar,,,,,,Stable,Positif,Oui,CTMIT Fann
+21/03/2020,Communique 20,C01629,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C017SEN30,Darou Marnane,Diourbel,,,Senegalaise,,,Stable,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C017SEN31,,Dakar,,,Senegalaise,,,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01732,,Dakar,,,,,,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01733,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01734,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01835,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01836,,Thies,,,,,,Stable,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01934,,Dakar,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01935,,Dakar,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01936,,Dakar,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C01937,,Dakar,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C019SEN38,,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C019SEN39,,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C019SEN40,,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,CTE Touba
+21/03/2020,Communique 20,C019SEN41,,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C019SEN42,,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C020SEN43,Ziguinchor,Ziguinchor,France,,Francaise,70 - 79,Masculin,Sous Traitement,Positif,Oui,CT HR Ziguinchor
+21/03/2020,Communique 20,C02044,,Saint-Louis,,,,,,Sous Traitement,Positif,Oui,CT Diamnidio
+21/03/2020,Communique 20,C02045,,,,,,,,Sous Traitement,Positif,Oui,
+21/03/2020,Communique 20,C02046,,,,,,,,Sous Traitement,Positif,Oui,
+21/03/2020,Communique 20,C02047,Pikine,Dakar,France,16/03/2020,Senegalaise,30 - 39,Masculin,Sous Traitement,Positif,Oui,
+21/03/2020,Communique 20,C02048,Darou Marnane,Diourbel,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+21/03/2020,Communique 20,C02049,,Thies,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+21/03/2020,Communique 20,C02050,,Thies,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+21/03/2020,Communique 20,C02051,,Thies,,,Senegalaise,,,Sous Traitement,Positif,Oui,
+21/03/2020,Communique 20,C02052,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02053,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02054,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02055,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02056,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02057,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02058,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02059,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02060,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02061,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02062,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02063,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02064,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C02065,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C66,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C67,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C68,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C69,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C70,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C71,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C72,,,,,,,,,Negatif,,
+21/03/2020,Communique 20,C73,,,,,,,,,Negatif,,
